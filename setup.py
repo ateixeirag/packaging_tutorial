@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="example-pkg-dwfkk", # Replace with your own username
-    version="0.0.1",
+    version="0.0.3",
     author="Alejandro Teixeira",
     author_email="admin@dwfkk.dk",
     description="A small example package",
